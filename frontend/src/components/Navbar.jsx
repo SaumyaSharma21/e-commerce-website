@@ -20,15 +20,15 @@ const Navbar = () => {
                 <p>HOME</p> 
                 <hr className="w-1/2 border-0 h-[1.5px] bg-gray-700 hidden" />
             </NavLink> 
-            <NavLink to='/collection' className='flex flex-col item s-center gap-1'>
+            <NavLink to='/collection' className='flex flex-col items-center gap-1'>
                 <p>COLLECTION</p> 
                 <hr className="w-1/2 border-0 h-[1.5px] bg-gray-700 hidden" />
             </NavLink> 
-            <NavLink to='/about' className='flex flex-col items-cen ter gap-1'>
+            <NavLink to='/about' className='flex flex-col items-center gap-1'>
                 <p>ABOUT</p> 
                 <hr className="w-1/2 border-0 h-[1.5px] bg-gray-700 hidden" />
             </NavLink> 
-            <NavLink to='/contact' className='flex flex-col items-c enter gap-1'>
+            <NavLink to='/contact' className='flex flex-col items-center gap-1'>
                 <p>CONTACT</p> 
                 <hr className="w-1/2 border-0 h-[1.5px] bg-gray-700 hidden" />
             </NavLink> 
