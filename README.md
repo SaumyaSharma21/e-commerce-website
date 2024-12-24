@@ -8,5 +8,4 @@ A fully-featured e-commerce application built using the MERN stack (MongoDB, Exp
 ## Tech Stack
 - Frontend: React.js, Tailwind CSS
 - Backend: Node.js, Express.js
-- Database: MongoDB
-- State Management: Redux 
+- Database: MongoDB 
