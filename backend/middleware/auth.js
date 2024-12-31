@@ -1,5 +1,4 @@
 import jwt from 'jsonwebtoken';
-import { loginUser } from '../controllers/userController';
 
 const authUser = async (req, res, next) => {
 
